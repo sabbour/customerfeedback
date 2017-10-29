@@ -1,6 +1,5 @@
 # Azure Customer Feedback Solution Lab
-Documentation for the Customer Feedback lab scenario
-![Solution diagram](./solution.png)
+<img src="solution.png" alt="Solution Diagram" style="width: 200px;"/>
 
 
 To start, fork the following Github repos to your account:
