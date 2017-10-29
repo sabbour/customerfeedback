@@ -1,5 +1,5 @@
 # Azure Customer Feedback Solution Lab
-<img src="solution.png" alt="Solution Diagram" style="width: 200px;"/>
+<img src="solution.png" alt="Solution Diagram" style="width: 150px;"/>
 
 
 To start, fork the following Github repos to your account:
