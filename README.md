@@ -1,5 +1,5 @@
 # Azure Customer Feedback Solution Lab
-<img src="solution.png" alt="Solution Diagram" style="width: 150px;"/>
+![Solution Diagram](./solution.png)
 
 
 To start, fork the following Github repos to your account:
@@ -7,3 +7,7 @@ To start, fork the following Github repos to your account:
 - http://github.com/sabbour/customerfeedback-api
 - http://github.com/sabbour/customerfeedback-functions
 
+
+Download the lab guide and handouts then you're good to go:
+- https://github.com/sabbour/customerfeedback/blob/master/Technical%20Bootcamp%20-%20Azure%20Paas%20and%20Serverless%20(Handout).pdf
+- https://github.com/sabbour/customerfeedback/blob/master/Technical%20Bootcamp%20-%20Azure%20Paas%20and%20Serverless%20-%20Ahmed%20Sabbour.pptx
